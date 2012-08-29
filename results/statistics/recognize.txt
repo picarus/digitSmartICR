@@ -1,0 +1,336 @@
+File Name:96.0.1.309_38534.RQS
+Percentage:66.666664
+Ratio:74.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:75.21368
+Ratio:88.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:58.974358
+Ratio:69.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:87.23404
+Ratio:41.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:91.45299
+Ratio:107.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:79.48718
+Ratio:93.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:57.446808
+Ratio:27.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:51.351353
+Ratio:57.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:84.61539
+Ratio:99.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:57.446808
+Ratio:27.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:56.756756
+Ratio:63.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:97.4359
+Ratio:114.0/117.0
+Factor:3
+Percentage:73.04422
+Ratio:859.0/1176.0
+File Name:96.0.1.309_38534.RQS
+Percentage:67.567566
+Ratio:75.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:79.48718
+Ratio:93.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:58.11966
+Ratio:68.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:78.723404
+Ratio:37.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:90.59829
+Ratio:106.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:81.19658
+Ratio:95.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:61.70213
+Ratio:29.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:62.162163
+Ratio:69.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:94.0171
+Ratio:110.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:42.553192
+Ratio:20.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:53.153152
+Ratio:59.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:90.59829
+Ratio:106.0/117.0
+Factor:4
+Percentage:73.72449
+Ratio:867.0/1176.0
+File Name:96.0.1.309_38534.RQS
+Percentage:63.963963
+Ratio:71.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:75.21368
+Ratio:88.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:63.247864
+Ratio:74.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:87.23404
+Ratio:41.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:93.16239
+Ratio:109.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:76.92308
+Ratio:90.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:63.82979
+Ratio:30.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:60.36036
+Ratio:67.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:90.59829
+Ratio:106.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:61.70213
+Ratio:29.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:57.657658
+Ratio:64.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.871796
+Ratio:111.0/117.0
+Factor:5
+Percentage:74.82993
+Ratio:880.0/1176.0
+File Name:96.0.1.309_38534.RQS
+Percentage:66.666664
+Ratio:74.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:79.48718
+Ratio:93.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:56.410255
+Ratio:66.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:82.97872
+Ratio:39.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:89.74359
+Ratio:105.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:69.23077
+Ratio:81.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:70.21277
+Ratio:33.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:63.063065
+Ratio:70.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:88.888885
+Ratio:104.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:55.31915
+Ratio:26.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:52.25225
+Ratio:58.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.0171
+Ratio:110.0/117.0
+Factor:6
+Percentage:73.04422
+Ratio:859.0/1176.0
+File Name:96.0.1.309_38534.RQS
+Percentage:72.97298
+Ratio:81.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:79.48718
+Ratio:93.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:63.247864
+Ratio:74.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:80.85107
+Ratio:38.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.871796
+Ratio:111.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:75.21368
+Ratio:88.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:72.34042
+Ratio:34.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:65.76576
+Ratio:73.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:94.871796
+Ratio:111.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:59.574467
+Ratio:28.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:52.25225
+Ratio:58.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.871796
+Ratio:111.0/117.0
+Factor:7
+Percentage:76.53061
+Ratio:900.0/1176.0
+File Name:96.0.1.309_38534.RQS
+Percentage:73.87387
+Ratio:82.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:88.888885
+Ratio:104.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:69.23077
+Ratio:81.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:85.106384
+Ratio:40.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:93.16239
+Ratio:109.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:83.76068
+Ratio:98.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:74.46809
+Ratio:35.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:64.86487
+Ratio:72.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:92.30769
+Ratio:108.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:63.82979
+Ratio:30.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:55.855854
+Ratio:62.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.871796
+Ratio:111.0/117.0
+Factor:8
+Percentage:79.2517
+Ratio:932.0/1176.0
+File Name:96.0.1.309_38534.RQS
+Percentage:75.675674
+Ratio:84.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.0171
+Ratio:110.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:70.94017
+Ratio:83.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:82.97872
+Ratio:39.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:96.5812
+Ratio:113.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:86.32478
+Ratio:101.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:63.82979
+Ratio:30.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:63.063065
+Ratio:70.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:94.871796
+Ratio:111.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:63.82979
+Ratio:30.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:53.153152
+Ratio:59.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.0171
+Ratio:110.0/117.0
+Factor:9
+Percentage:79.93198
+Ratio:940.0/1176.0
+File Name:96.0.1.309_38534.RQS
+Percentage:78.37838
+Ratio:87.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:87.17949
+Ratio:102.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:77.77778
+Ratio:91.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:82.97872
+Ratio:39.0/47.0
+File Name:96.0.1.311_14627.RQS
+Percentage:94.871796
+Ratio:111.0/117.0
+File Name:96.0.1.312_14634.RQS
+Percentage:88.03419
+Ratio:103.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:65.95744
+Ratio:31.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:63.063065
+Ratio:70.0/111.0
+File Name:96.0.1.312_14634.RQS
+Percentage:91.45299
+Ratio:107.0/117.0
+File Name:96.0.1.308_38527.RQS
+Percentage:55.31915
+Ratio:26.0/47.0
+File Name:96.0.1.309_38534.RQS
+Percentage:57.657658
+Ratio:64.0/111.0
+File Name:96.0.1.311_14627.RQS
+Percentage:97.4359
+Ratio:114.0/117.0
+Factor:10
+Percentage:80.35714
+Ratio:945.0/1176.0
+Factor:3
+Percentage:73.04422
+Ratio:859.0/1176.0
+Factor:4
+Percentage:73.72449
+Ratio:867.0/1176.0
+Factor:5
+Percentage:74.82993
+Ratio:880.0/1176.0
+Factor:6
+Percentage:73.04422
+Ratio:859.0/1176.0
+Factor:7
+Percentage:76.53061
+Ratio:900.0/1176.0
+Factor:8
+Percentage:79.2517
+Ratio:932.0/1176.0
+Factor:9
+Percentage:79.93198
+Ratio:940.0/1176.0
+Factor:10
+Percentage:80.35714
+Ratio:945.0/1176.0
